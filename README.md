@@ -1,16 +1,15 @@
 ## Authors:
--Alex Emanuelson
--emanuea2@wwu.edu
--Western Washington University
+Alex Emanuelson
+alexeemanuelson@gmail.com
 
--Moustafa Naquib
--naquibm@wwu.edu
--Western Wasington University
+Moustafa Naquib
+naquibm@wwu.edu
 	
--Scott Waldron	
--waldros2@wwu.edu 
--Western Washington University
-```
+Scott Waldron	
+waldros2@wwu.edu 
+
+Dylan Carpenter
+carpend3@wwu.edu
 
 ## Description:
 ThreadLevel-Metrics (TLM) is an API that allows the capture of
